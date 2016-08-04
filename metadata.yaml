@@ -1,0 +1,40 @@
+_repo: The-Yellow-Wallpaper_1952
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gilman, Charlotte Perkins
+    aliases:
+    - Perkins, Charlotte Anna
+    - Stetson, Charlotte Perkins
+    birthdate: 1860
+    deathdate: 1935
+    gutenberg_agent_id: '27'
+    url: http://www.gutenberg.org/2009/agents/27
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Perkins_Gilman
+description: THE YELLOW WALL-PAPER is a short story by Charlotte Perkins Gilman, first
+  published in January 1892 in The New England Magazine. It is regarded as an important
+  early work of American feminist literature, illustrating attitudes in the 19th century
+  toward women's physical and mental health. Presented in the first person, the story
+  is a collection of journal entries written by a woman whose physician husband has
+  confined her to the upstairs bedroom of a house he has rented for the summer. She
+  is forbidden from working and has to hide her journal from him, so she can recuperate
+  from wh.
+gutenberg_bookshelf: Gothic Fiction
+gutenberg_issued: '1999-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1952'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Married women -- Psychology -- Fiction'
+- !lcsh 'Sex role -- Fiction'
+- !lcsh 'Mentally ill women -- Fiction'
+- !lcsh 'Feminist fiction'
+- !lcsh 'Psychological fiction'
+- GITenberg
+title: The Yellow Wallpaper
+url: http://www.gutenberg.org/ebooks/1952
