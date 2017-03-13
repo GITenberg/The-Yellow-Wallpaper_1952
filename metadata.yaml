@@ -1,5 +1,8 @@
 _repo: The-Yellow-Wallpaper_1952
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gilman, Charlotte Perkins
@@ -19,6 +22,8 @@ description: THE YELLOW WALL-PAPER is a short story by Charlotte Perkins Gilman,
   confined her to the upstairs bedroom of a house he has rented for the summer. She
   is forbidden from working and has to hide her journal from him, so she can recuperate
   from wh.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1952#The-Yellow-Wallpaper
 gutenberg_bookshelf: Gothic Fiction
 gutenberg_issued: '1999-11-01'
 gutenberg_type: Text
